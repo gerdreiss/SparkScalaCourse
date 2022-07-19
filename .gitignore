@@ -1,0 +1,11 @@
+.DS_Store
+.bsp/
+.bloop/
+.idea/
+.metals/
+.vscode
+data/
+lib/
+target/
+metals.sbt
+winutils.exe
